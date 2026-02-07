@@ -12,7 +12,13 @@ A modern, minimal todo application built with **Vue 3**, **TypeScript**, and the
 - 📘 **TypeScript** - Full type safety and excellent IDE support
 - 🧩 **Composition API** - Modern Vue 3 patterns with `<script setup>`
 
-## 🛠️ Tech Stack
+## � Screenshots
+
+![Todo App Screenshot 1](/todo0.jpg)
+![Todo App Screenshot 2](/todo1.jpg)
+![Todo App Screenshot 3](/todo2.jpg)
+
+## �🛠️ Tech Stack
 
 - **Framework:** Vue 3
 - **Language:** TypeScript
